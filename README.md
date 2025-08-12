@@ -1,1 +1,4 @@
-will update it soon............
+<h1>Ai Sales Call Assistant</h1>
+<h2>Overview:</h2>
+<h4><p>This is a AI based project in which we have created a model where it will assist the customer service providers to be able to understand the customers tone of voice and will determine in which mindset the customer is either its is positive, negative or neutral based on the interaction.</p></h4>
+<h4><p>This model will also have the access to the customers past purchases, their interest in the products and after finding their tone of speech it will suggest the product. If the customer is not satisfied with their purchase and they have the query, this will help use the AI model and suggest what kind of respond should be giveen by the customer service provider. And will also generate a generate a summary based on what happened in the conversation so that it will be easier to access the history so that later the model can be improved</p></h4>
